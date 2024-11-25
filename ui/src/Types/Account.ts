@@ -3,5 +3,6 @@ export type account = {
   name: string;
   amount: number;
   type: string;
+  todaysWidthdrawals: number;
   creditLimit: number;
 }

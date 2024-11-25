@@ -1,0 +1,41 @@
+[33m54135ac[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: pull: Merge made by the 'ort' strategy.
+[33m547406a[m[33m ([m[1;32mnew-branch[m[33m)[m HEAD@{1}: reset: moving to 547406a
+[33m547406a[m[33m ([m[1;32mnew-branch[m[33m)[m HEAD@{2}: checkout: moving from new-branch to main
+[33m547406a[m[33m ([m[1;32mnew-branch[m[33m)[m HEAD@{3}: checkout: moving from main to new-branch
+[33m547406a[m[33m ([m[1;32mnew-branch[m[33m)[m HEAD@{4}: commit (amend): added web vitals file
+[33m44be3f7[m[33m ([m[1;31morigin/feature/build-v2-challenge[m[33m)[m HEAD@{5}: Branch: renamed refs/heads/feature/build-v2-challenge to refs/heads/main
+[33m44be3f7[m[33m ([m[1;31morigin/feature/build-v2-challenge[m[33m)[m HEAD@{7}: commit: added web vitals file
+[33mf9dc922[m HEAD@{8}: commit: updated readme and wrap-up based on feedback
+[33mc0ded0b[m HEAD@{9}: commit: updating readme and wrap up files
+[33m05c4e57[m HEAD@{10}: commit: added ui to dockerfile
+[33mcdc3522[m HEAD@{11}: commit: wrapped up the ui
+[33m017eeb5[m HEAD@{12}: commit: just need to implemnet deposit and withdraw funds, then we're done.
+[33m157712d[m HEAD@{13}: commit: one thing left; withdraw and deposit need their endpoints connected
+[33m111fca5[m HEAD@{14}: commit: finished SignIn page
+[33m49ccf06[m HEAD@{15}: commit: added frontend and built sign in page
+[33m95aedb8[m HEAD@{16}: commit: deposits implemented
+[33m8e69ae4[m HEAD@{17}: commit: fleshed out withdrawal endpoint
+[33m776e8ad[m HEAD@{18}: commit: separated the handler logic out of the route
+[33m077749a[m HEAD@{19}: commit: built out accounts endpoint, separated db query call
+[33ma015a5c[m HEAD@{20}: commit: We have a working get account endpoint
+[33m029e1eb[m HEAD@{21}: commit: setup validation middleware and stubbed out endpoints
+[33m2561c72[m HEAD@{22}: commit: Got the initial typescript express app working within the coding challenge
+[33m2712a7b[m HEAD@{23}: checkout: moving from main to feature/build-v2-challenge
+[33m2712a7b[m HEAD@{24}: commit: maxing out bills credit line
+[33m4838e7e[m HEAD@{25}: commit: added credit limit to the accounts table
+[33m3b85211[m HEAD@{26}: commit: updated readme
+[33mc7c720a[m HEAD@{27}: commit: updated readme
+[33mc6ff40e[m HEAD@{28}: commit: update to simplify what we give people as a part of this project.
+[33mbb5fa04[m HEAD@{29}: commit: updated todos to handle title and check changes
+[33mb5c1e31[m HEAD@{30}: commit: mostly done with react side
+[33me0d3eba[m HEAD@{31}: commit: added link to docker download in readme
+[33m9844bd7[m HEAD@{32}: commit: updated readme
+[33m55f4f6d[m HEAD@{33}: commit: finished a version of the backend
+[33m0635045[m HEAD@{34}: commit: more updates
+[33m3f5ba12[m HEAD@{35}: commit: added TodoController and pg, cleaned up routes
+[33md1baf21[m HEAD@{36}: commit: fixed docker issues
+[33m508328f[m HEAD@{37}: commit: remove package lock
+[33m539e8ca[m HEAD@{38}: commit: update backend and add gitignore
+[33m96c1867[m HEAD@{39}: commit: both frontend and backend containers work now
+[33mc795768[m HEAD@{40}: checkout: moving from main to main
+[33mc795768[m HEAD@{41}: commit (initial): attempting to get one of the containers working first

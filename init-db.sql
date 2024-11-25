@@ -5,6 +5,7 @@ CREATE TABLE accounts (
     name VARCHAR NOT NULL,
     amount INTEGER NOT NULL,
     type VARCHAR NOT NULL,
+    todays_widthdrawals INTEGER DEFAULT 0,
     credit_limit INTEGER
 );
 

@@ -12,7 +12,7 @@ We would like you to add the following functionality to withdrawals and deposits
 #### Making Withdrawals
 When making a withdrawal, the following rules should apply.
 - A customer can withdraw no more than $200 in a single transaction.
-- A customer can withdraw no more than $400 in a single day. 
+- A customer can withdraw no more than $400 in a single day.
 - A customer can withdraw any amount that can be dispensed in $5 bills.
 - The customer cannot withdraw more than they have in their account, unless it is a credit account, in which case they cannot withdraw more than their credit limit.
 
@@ -29,6 +29,8 @@ Please create a public Github repo and use that while you work on this project. 
 
 ### Evaluation Process
 When evaluating this project, we will start by downloading the project, running `docker run build` and then `docker compose up -d`. Make sure that your project can be run with these two steps, otherwise it will not be considered.
+
+`docker run build` should be `docker compose build` which will run the command for each directory. --Phillip
 
 After testing the project and reviewing code, we will discuss internally, and if your project is accepted, we will reach out to schedule the first interview, which involves a code review of your project.
 

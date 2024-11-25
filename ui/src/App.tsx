@@ -29,6 +29,7 @@ export const App = () => {
       name: data.name,
       amount: data.amount,
       type: data.type,
+      todaysWidthdrawals: data.todays_widthdrawals,
       creditLimit: data.credit_limit
     });
   }
